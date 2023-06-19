@@ -1,0 +1,52 @@
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee_Data.Form1.resources
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee_Data.Properties.Resources.resources
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.AssemblyInfo.cs
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.exe
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.deps.json
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.runtimeconfig.json
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.dll
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.pdb
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\HP\source\repos\Employee Data\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.csproj.CopyComplete
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.dll
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.pdb
+C:\Users\HP\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.genruntimeconfig.cache
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.exe
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.deps.json
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.runtimeconfig.json
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.dll
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Employee Data.pdb
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Gabby\source\repos\Employee Data\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.csproj.AssemblyReference.cache
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee_Data.Form1.resources
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee_Data.Properties.Resources.resources
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.csproj.GenerateResource.cache
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.csproj.CopyComplete
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.dll
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.pdb
+C:\Users\Gabby\source\repos\Employee Data\obj\Debug\netcoreapp3.1\Employee Data.genruntimeconfig.cache
